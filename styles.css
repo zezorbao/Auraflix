@@ -7,6 +7,20 @@ body {
 header {
      border-bottom: solid 2px rgba(135, 119, 119, 1);
      padding: 20px;
-     font-size: 32px;
-     color: rgba(230, 57, 57, 1);
+     font-size: 42px;
+     color: rgb(213, 20, 20);
+}
+
+/* código omitido */
+
+section {
+    background: rgba(188, 5, 5, 0.817);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
